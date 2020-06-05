@@ -10,4 +10,4 @@
 
 ## 3주차 과제 (2020.06.04)
 
-- [학습률 최적화, 군집 분석 구현, Cost Function 구현](
+- [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/wjdwlsdn1216/wjd-wls-dn/blob/master/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
